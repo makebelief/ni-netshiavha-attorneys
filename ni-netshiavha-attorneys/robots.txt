@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Remove the disallow rule only after approval and deployment domain verification.
